@@ -12,8 +12,8 @@ pipeline{
         }
         stage('build docker image'){
             steps{
-                sh 'docker image build -t kumar1502/nop-demo-terraform:latest .'
-                sh 'docker image push kumar1502/nop-demo-terraform:latest'
+                sh 'docker image build -t kumar1502/nop-terraform:latest .'
+                sh 'docker image push kumar1502/nop-terraform:latest'
             }
         }
         stage('infra provisioning'){
