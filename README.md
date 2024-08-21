@@ -30,6 +30,7 @@ Our clear and detailed [documentation](https://docs.nopcommerce.com/developer/in
 
 ### The advantages of working with nopCommerce ###
 
+
 nopCommerce offers powerful [out-of-the-box features](https://www.nopcommerce.com/features?utm_source=github&utm_medium=referral&utm_campaign=features&utm_content=text) for creating an online store of any size and type.
 
 nopCommerce is integrated with all the popular third-party services. You can find thousands of integrations on nopCommerce [Marketplace](https://www.nopcommerce.com/marketplace?utm_source=github&utm_medium=referral&utm_campaign=marketplace&utm_content=text).
